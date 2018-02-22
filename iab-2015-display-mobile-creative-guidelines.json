@@ -10,7 +10,6 @@
   },
   "max_initial_file_load": 200,
   "host_initiated_subload": 1000,
-  "animation_video_guidelines": "Minimum 24 fps for video \n30 sec max length (unlimited user-initiated) \n2.2 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video or animation",
   "min_z_index": 0,
   "max_z_index": 4999,
   "unit_specific_notes": "This ad unit collapses to \"Show Ad\" text with icon (or 88x31 image) or \"Show Ad\" text/icon with residual branding in 62x88 px or 196x31 px image. \nExample & Style Guide: www.iab.com/risingstars Publishers: Please see note 6 below."
@@ -23,7 +22,6 @@
   }],
   "max_initial_file_load": 200,
   "host_initiated_subload": 300,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "min_z_index": 0,
   "max_z_index": 4999,
   "unit_specific_notes": "This ad uses a 300x600 viewable window in which a 5-segment ad of total size 300x3000 scrolls \nModular design may require added user control.\nExample & Style Guide: www.iab.com / risingstars Publishers: Please see note 6 below."
@@ -40,7 +38,6 @@
   },
   "max_initial_file_load": 200,
   "host_initiated_subload": 350,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "min_z_index": 5000,
   "max_z_index": 1999999,
   "unit_specific_notes": "The Portrait is a template for including interactive modular apps. Detailed specs are provided for labeling application options and required controls. \nExample & Style Guide: www.iab.com/risingstars \nPublishers: Please see note 6 below."
@@ -60,7 +57,6 @@
   },
   "max_initial_file_load": 200,
   "host_initiated_subload": 300,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "min_z_index": 0,
   "max_z_index": 4999,
   "unit_specific_notes": "Expanding Pushdown ad units \"push\" page content down rather than expanding over page content. Please see style guide for details on labeling and required controls. \nExample & Style Guide: www.iab.com/risingstars Publishers: Please see note 6 below."
@@ -83,7 +79,6 @@
   },
   "max_initial_file_load": 200,
   "host_initiated_subload": 300,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "min_z_index": 5000,
   "max_z_index": 1999999,
   "unit_specific_notes": "Unit extends to side of page. Please see style guide for details on labeling and required controls. \nExample & Style Guide: www.iab.com/risingstars Publishers: Please see note 6 below."
@@ -103,7 +98,6 @@
   },
   "max_initial_file_load": 200,
   "host_initiated_subload": 300,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "min_z_index": 5000,
   "max_z_index": 1999999,
   "unit_specific_notes": "Use a branding color for the gutter areas while keeping active ad elements in the center 950px. In the Slider Content use a branding color for the bottom 90px while keeping active ad elements in the top 460px. \nThe Slider Bar is anchored to the bottom and will be pushed up by any horizontal scroll bars. Click or rollover initiates slider content. Must contain \"Close X\" in expanded slider bar and in slider content. \nExample & Style Guide: www.iab.com/risingstars Publishers: Please see note 6 below."
@@ -115,7 +109,6 @@
     "height": 250
   }],
   "max_initial_file_load": 200,
-  "animation_video_guidelines": "15 sec max animation length \nVideo not allowed for this unit. See \"In-Banner Video\" & Rich Media units below",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -126,7 +119,6 @@
     "height": 150
   }],
   "max_initial_file_load": 80,
-  "animation_video_guidelines": "15 sec max animation length \nVideo not allowed for this unit. See \"In-Banner Video\" & Rich Media units below",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -137,7 +129,6 @@
     "height": 600
   }],
   "max_initial_file_load": 200,
-  "animation_video_guidelines": "15 sec max animation length \nVideo not allowed for this unit. See \"In-Banner Video\" & Rich Media units below",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -148,7 +139,6 @@
     "height": 90
   }],
   "max_initial_file_load": 200,
-  "animation_video_guidelines": "15 sec max animation length \nVideo not allowed for this unit. See \"In-Banner Video\" & Rich Media units below",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -162,7 +152,6 @@
     "height": 66
   }],
   "max_initial_file_load": 200,
-  "animation_video_guidelines": "Video not allowed for this unit \nsee \"In-Banner Video\" & Rich Media units below",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -173,7 +162,6 @@
     "height": 600
   }],
   "max_initial_file_load": 200,
-  "animation_video_guidelines": "15 sec max animation length \nVideo not allowed for this unit. See \"In-Banner Video\" & Rich Media units below",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -184,7 +172,6 @@
     "height": 60
   }],
   "max_initial_file_load": 80,
-  "animation_video_guidelines": "15 sec max animation length \nVideo not allowed for this unit. See \"In-Banner Video\" & Rich Media units below",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -195,7 +182,6 @@
     "height": 31
   }],
   "max_initial_file_load": 80,
-  "animation_video_guidelines": "15 sec max animation length \nVideo not allowed for this unit. See \"In-Banner Video\" & Rich Media units below",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -219,7 +205,6 @@
   }],
   "max_initial_file_load": 200,
   "host_initiated_subload": 100,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "min_z_index": 0,
   "max_z_index": 4999
 
@@ -243,7 +228,6 @@
   }],
   "max_initial_file_load": 200,
   "host_initiated_subload": 300,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "min_z_index": 5000,
   "max_z_index": 1999999,
   "unit_specific_notes": "Retract Feature = Either Click to close/expand or Enable Mouse-Off Retraction"
@@ -262,7 +246,6 @@
   }],
   "max_initial_file_load": 200,
   "host_initiated_subload": 300,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "unit_specific_notes": "In the browser bar all Pop Ups must be clearly labeled with: Name of Network/Advertiser Publisher Browser Type [in this order] (ex.: \"Advertising.com - CBS Market Watch - Microsoft Internet Explorer\") \n\"Close\" control provided by browser window. \nPop-ups display in their own browser window so pop-up ad content has its own z-index"
 
 }, {
@@ -273,7 +256,6 @@
   }],
   "max_initial_file_load": 200,
   "host_initiated_subload": 300,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "min_z_index": 2000000,
   "max_z_index": 2999999,
   "unit_specific_notes": "Label = \"Advertisement\" Font = 8pt (11px) by 16pt (21px) \n\"Close X\" control required on expanded content font = 8pt (11px) by 16 pt (21 px)"
@@ -286,7 +268,6 @@
   }],
   "max_initial_file_load": 200,
   "host_initiated_subload": 300,
-  "animation_video_guidelines": "Minimum 24 fps for video \n15 sec max length (unlimited user-initiated) \n1.1 MB additional file size allowed for host-initiated video \nUnlimited file size for user- initiated video",
   "unit_specific_notes": "Label = \"Advertisement\" Font = 8pt (11px) by 16pt (21px) \n\"Close\" control provided by browser window if ad displays in its own browser window. If overlaid on target page include \"Close X\" button. Font = 8pt (11px) by 16pt (21px)"
   }
 ]
