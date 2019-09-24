@@ -1,0 +1,132 @@
+[{
+  "ad_unit_name": "Billboard",
+  "fixed_sizes": {
+    "width": 970,
+    "height": 250
+  },
+  "max_k_weight_initial_load": 250,
+  "max_k_weight_subload": 500
+
+}, {
+  "ad_unit_name": "Smartphone Banner",
+  "fixed_size": {
+    "width": 300,
+    "height": 50
+  },
+  "max_k_weight_initial_load": 50,
+  "max_k_weight_subload": 100
+
+}, {
+  "ad_unit_name": "Smartphone Banner",
+  "fixed_size": {
+    "width": 320,
+    "height": 50
+  },
+  "max_k_weight_initial_load": 50,
+  "max_k_weight_subload": 100
+
+}, {
+  "ad_unit_name": "Leaderboard",
+  "fixed_size": {
+    "width": 728,
+    "height": 90
+  },
+  "max_k_weight_initial_load": 150,
+  "max_k_weight_subload": 300
+
+}, {
+  "ad_unit_name": "Super Leaderboard/ Pushdown",
+  "fixed_size": {
+    "width": 970,
+    "height": 90
+  },
+  "max_k_weight_initial_load": 200,
+  "max_k_weight_subload": 400
+
+}, {
+  "ad_unit_name": "Portrait",
+  "fixed_size": {
+    "width": 300,
+    "height": 1050
+  },
+  "max_k_weight_initial_load": 250,
+  "max_k_weight_subload": 500
+
+}, {
+  "ad_unit_name": "Skyscraper",
+  "fixed_size": {
+    "width": 160,
+    "height": 600
+  },
+  "max_k_weight_initial_load": 150,
+  "max_k_weight_subload": 300
+
+}, {
+  "ad_unit_name": "Medium Rectangle",
+  "fixed_size": {
+    "width": 300,
+    "height": 250
+  },
+  "max_k_weight_initial_load": 150,
+  "max_k_weight_subload": 300
+
+}, {
+  "ad_unit_name": "20x60",
+  "fixed_size": {
+    "width": 120,
+    "height": 60
+  },
+  "max_k_weight_initial_load": 50,
+  "max_k_weight_subload": 100
+
+}, {
+  "ad_unit_name": "Mobile Phone Interstitial",
+  "fixed_size": {
+    "width": 640,
+    "height": 1136
+  },
+  "max_k_weight_initial_load": 300,
+  "max_k_weight_subload": 600
+
+}, {
+  "ad_unit_name": "Mobile Phone Interstitial",
+  "fixed_size": {
+    "width": 750,
+    "height": 1334
+  },
+  "max_k_weight_initial_load": 300,
+  "max_k_weight_subload": 600
+
+}, {
+  "ad_unit_name": "Mobile Phone Interstitial",
+  "fixed_size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "max_k_weight_initial_load": 300,
+  "max_k_weight_subload": 600
+
+}, {
+  "ad_unit_name": "Feature Phone Small Banner",
+  "fixed_size": {
+    "width": 120,
+    "height": 20
+  },
+  "max_k_weight_initial_load": 5
+
+}, {
+  "ad_unit_name": "Feature Phone Medium Banner",
+  "fixed_size": {
+    "width": 168,
+    "height": 28
+  },
+  "max_k_weight_initial_load": 5
+
+}, {
+  "ad_unit_name": "Feature Phone Large Banner",
+  "fixed_size": {
+    "width": 216,
+    "height": 36
+  },
+  "max_k_weight_initial_load": 5
+}]
