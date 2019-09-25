@@ -1,6 +1,6 @@
 [{
   "ad_unit_name": "Billboard",
-  "fixed_sizes": {
+  "fixed_size": {
     "width": 970,
     "height": 250
   },
